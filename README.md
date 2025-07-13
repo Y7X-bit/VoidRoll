@@ -1,9 +1,11 @@
 <div align="center">
 
 # 🎲 VoidRoll
+**🌑 Enter the void — VoidRoll ignites**
 
-**Roll in style.**  
-A glowing dice simulator with pitch-black AMOLED vibes and that signature 💗 Y7X touch.
+Roll in style.
+A glowing dice simulator with pitch-black AMOLED vibes and that signature.
+Branded with 💗 by [Y7X-bit](https://github.com/Y7X-bit)
 
 <img src="assets/1.png" alt="VoidRoll UI" width="500"/>
 
@@ -11,7 +13,7 @@ A glowing dice simulator with pitch-black AMOLED vibes and that signature 💗 Y
 
 ---
 
-### ✨ Features
+## 🌟 Features at a Glance
 
 - ⚀ Smooth dice roll animation  
 - 🌑 Full AMOLED black UI — no greys, no compromises  
@@ -22,8 +24,12 @@ A glowing dice simulator with pitch-black AMOLED vibes and that signature 💗 Y
 
 ---
 
-### 🚀 How to Run
+## 🖥️ Installation
+
+> Python 3.9 or later required
 
 ```bash
-pip install customtkinter
-python dice_simulator.py
+git clone https://github.com/Y7X-bit/VoidRoll.git
+cd VoidRoll
+pip install -r requirements.txt
+python VoidRoll.py
